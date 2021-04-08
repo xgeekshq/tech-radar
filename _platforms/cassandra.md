@@ -2,7 +2,7 @@
 layout: details
 filename: cassandra 
 name: Apache Cassandra
-image: /tech-radar/assets/images/platforms/docker.png 
+image: /tech-radar/assets/images/platforms/cassandra.png 
 category: Platforms
 ring: Adopt
 ---
