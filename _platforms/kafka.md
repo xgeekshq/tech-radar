@@ -2,7 +2,7 @@
 layout: details
 filename: kafka 
 name: Apache Kafka
-image: /tech-radar/assets/images/platforms/docker.png 
+image: /tech-radar/assets/images/platforms/kafka.png
 category: Platforms
 ring: Adopt
 ---
