@@ -2,7 +2,7 @@
 layout: details
 filename: mongodb 
 name: Mongodb
-image: /tech-radar/assets/images/platforms/docker.png 
+image: /tech-radar/assets/images/platforms/mongodb.png
 category: Platforms
 ring: Adopt
 ---
