@@ -2,7 +2,7 @@
 layout: details
 filename: ddd
 name: Domain Driven Design
-image: /tech-radar/assets/images/techniques/tdd.png 
+image: /tech-radar/assets/images/techniques/ddd.png 
 category: Techniques
 ring: Adopt
 ---
