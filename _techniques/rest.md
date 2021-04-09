@@ -2,7 +2,7 @@
 layout: details
 filename: rest
 name: Rest
-image: /tech-radar/assets/images/techniques/tdd.png 
+image: /tech-radar/assets/images/techniques/rest.png 
 category: Techniques
 ring: Adopt
 ---
