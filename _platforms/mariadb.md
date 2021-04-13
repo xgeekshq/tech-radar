@@ -2,7 +2,7 @@
 layout: details
 filename: mariadb 
 name: MariaDB
-image: /tech-radar/assets/images/platforms/postgresql.png 
+image: /tech-radar/assets/images/platforms/mariadb.png
 category: Platforms
 ring: Adopt
 ---
