@@ -2,7 +2,7 @@
 layout: details
 filename: django
 name: Django
-image: /tech-radar/assets/images/languages-frameworks/lavarel.png 
+image: /tech-radar/assets/images/languages-frameworks/django.png
 category: languages-frameworks
 ring: Adopt
 ---
