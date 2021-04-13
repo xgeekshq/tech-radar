@@ -2,7 +2,7 @@
 layout: details
 filename: symfony
 name: Symfony
-image: /tech-radar/assets/images/languages-frameworks/lavarel.png 
+image: /tech-radar/assets/images/languages-frameworks/symfony.png
 category: languages-frameworks
 ring: Adopt
 ---
