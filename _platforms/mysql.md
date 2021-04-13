@@ -2,7 +2,7 @@
 layout: details
 filename: mysql 
 name: MySQL
-image: /tech-radar/assets/images/platforms/postgresql.png 
+image: /tech-radar/assets/images/platforms/mysql.png
 category: Platforms
 ring: Adopt
 ---
