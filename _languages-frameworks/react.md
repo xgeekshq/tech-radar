@@ -2,7 +2,7 @@
 layout: details
 filename: react
 name: React
-image: /tech-radar/assets/images/languages-frameworks/java.png
+image: /tech-radar/assets/images/languages-frameworks/react.png
 category: languages-frameworks
 ring: Adopt
 ---
