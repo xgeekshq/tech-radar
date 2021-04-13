@@ -2,7 +2,7 @@
 layout: details
 filename: kubernetes 
 name: Kubernetes
-image: /tech-radar/assets/images/platforms/docker.png 
+image: /tech-radar/assets/images/platforms/kubernetes.png 
 category: Platforms
 ring: Adopt
 ---
