@@ -1,7 +1,7 @@
 ---
 layout: details
 filename: mongodb 
-name: Mongodb
+name: MongoDB
 image: /tech-radar/assets/images/platforms/mongodb.png
 category: Platforms
 ring: Adopt
