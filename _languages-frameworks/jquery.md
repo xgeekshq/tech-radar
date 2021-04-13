@@ -2,7 +2,7 @@
 layout: details
 filename: jquery
 name: JQuery
-image: /tech-radar/assets/images/languages-frameworks/javascript.png
+image: /tech-radar/assets/images/languages-frameworks/jquery.png
 category: languages-frameworks
 ring: Adopt
 ---
