@@ -2,7 +2,7 @@
 layout: details
 filename: helm 
 name: Helm
-image: /tech-radar/assets/images/platforms/kubernetes.png 
+image: /tech-radar/assets/images/platforms/helm.png
 category: Platforms
 ring: Adopt
 ---
