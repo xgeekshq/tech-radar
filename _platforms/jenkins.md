@@ -2,7 +2,7 @@
 layout: details
 filename: jenkins 
 name: Jenkins
-image: /tech-radar/assets/images/platforms/docker.png 
+image: /tech-radar/assets/images/platforms/jenkins.png 
 category: Platforms
 ring: Adopt
 ---
