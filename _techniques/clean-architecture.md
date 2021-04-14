@@ -2,7 +2,7 @@
 layout: details
 filename: clean-architecture 
 name: Clean Architecture 
-image: /tech-radar/assets/images/techniques/microfrontend.png
+image: /tech-radar/assets/images/techniques/clean_architecture.png
 category: Techniques
 ring: Adopt
 ---
