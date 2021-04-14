@@ -2,7 +2,7 @@
 layout: details
 filename: redis 
 name: Redis
-image: /tech-radar/assets/images/platforms/cassandra.png 
+image: /tech-radar/assets/images/platforms/redis.png 
 category: Platforms
 ring: Adopt
 ---
