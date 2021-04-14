@@ -2,7 +2,7 @@
 layout: details
 filename: ci_cd
 name: CI/CD
-image: /tech-radar/assets/images/techniques/ddd.png 
+image: /tech-radar/assets/images/techniques/ci_cd.png 
 category: Techniques
 ring: Adopt
 ---
