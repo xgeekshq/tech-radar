@@ -2,7 +2,7 @@
 layout: details
 filename: monorepo
 name: Monorepo
-image: /tech-radar/assets/images/techniques/monorepo.png 
+image: /tech-radar/assets/images/techniques/monorepo.png
 category: Techniques
 ring: Adopt
 ---
