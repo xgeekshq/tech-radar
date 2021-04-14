@@ -2,7 +2,7 @@
 layout: details
 filename: microfrontend
 name: Microfrontend
-image: /tech-radar/assets/images/techniques/monorepo.png
+image: /tech-radar/assets/images/techniques/microfrontend.png
 category: Techniques
 ring: Adopt
 ---
