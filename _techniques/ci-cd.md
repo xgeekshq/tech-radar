@@ -1,6 +1,6 @@
 ---
 layout: details
-filename: ci_cd
+filename: ci-cd
 name: CI/CD
 image: /tech-radar/assets/images/techniques/ci_cd.png 
 category: Techniques
