@@ -2,7 +2,7 @@
 layout: details
 filename: rancher 
 name: Rancher
-image: /tech-radar/assets/images/platforms/kubernetes.png 
+image: /tech-radar/assets/images/platforms/rancher.png 
 category: Platforms
 ring: Adopt
 ---
