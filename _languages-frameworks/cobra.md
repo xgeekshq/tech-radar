@@ -2,7 +2,7 @@
 layout: details
 filename: cobra
 name: Cobra
-image: /tech-radar/assets/images/languages-frameworks/go.png 
+image: /tech-radar/assets/images/languages-frameworks/cobra.png 
 category: languages-frameworks
 ring: Adopt
 ---
