@@ -2,7 +2,7 @@
 layout: details
 filename: elasticsearch 
 name: Elasticsearch
-image: /tech-radar/assets/images/platforms/cassandra.png 
+image: /tech-radar/assets/images/platforms/elasticsearch.png
 category: Platforms
 ring: Adopt
 ---
