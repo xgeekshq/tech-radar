@@ -2,7 +2,7 @@
 layout: details
 filename: rabbitmq
 name: RabbitMQ
-image: /tech-radar/assets/images/platforms/cassandra.png 
+image: /tech-radar/assets/images/platforms/rabbitmq.png
 category: Platforms
 ring: Adopt
 ---
