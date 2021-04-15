@@ -2,7 +2,7 @@
 layout: details
 filename: nextjs
 name: Nextjs
-image: /tech-radar/assets/images/languages-frameworks/react.png
+image: /tech-radar/assets/images/languages-frameworks/nextjs.png
 category: languages-frameworks
 ring: Adopt
 ---
