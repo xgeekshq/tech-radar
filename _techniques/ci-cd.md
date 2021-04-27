@@ -8,9 +8,8 @@ ring: Adopt
 ---
 
 # What is it ?
-Domain-driven design is the concept that the structure and language of software code should match the business domain. For example, if a software processes loan applications, it might have classes such as LoanApplication and Customer, and methods such as AcceptOffer and Withdraw.
+In software engineering, CI/CD or CICD generally refers to the combined practices of continuous integration and either continuous delivery or continuous deployment. CI/CD bridges the gaps between development and operation activities and teams by enforcing automation in building, testing and deployment of applications.
 
 # Resources
-- [Book preview](https://books.google.pt/books/about/Domain_Driven_Design.html?id=hHBf4YxMnWMC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
-- [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly/)
+- [What is CI/CD? Continuous integration and continuous delivery explained](https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html)
 
