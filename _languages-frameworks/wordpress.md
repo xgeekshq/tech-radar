@@ -15,4 +15,3 @@ WordPress is a free and open-source content management system written in PHP and
 # Resources
 - [Home page](https://wordpress.com/)
 - [Github repository](https://github.com/symfony/symfony)
-
