@@ -16,4 +16,5 @@ Kubernetes is an open-source container-orchestration system for automating compu
 - [Home page](https://kubernetes.io/)
 - [Documentation](https://kubernetes.io/docs/home/)
 - [Github repository](https://github.com/kubernetes/kubernetes)
+- [Xgeeks about it](https://medium.com/xgeeks/tagged/kubernetes)
 
