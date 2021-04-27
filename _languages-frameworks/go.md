@@ -28,6 +28,7 @@ Sed ullamcorper nibh eget massa dapibus hendrerit. Nulla facilisi. Aliquam erat 
 - [turpis fermentum]()
 
 # Contacts
-- [Contactum 1]()
-- [Contactum 2]()
-- [Contactum 3]()
+- [Web page](https://golang.org/)
+- [Documentation](https://golang.org/doc/)
+- [Github repository](https://github.com/golang/go)
+- [Xgeeks about it](https://medium.com/xgeeks/tagged/go)
