@@ -8,26 +8,22 @@ ring: Adopt
 ---
 
 # What is it ?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pharetra ultricies lectus vitae elementum. Suspendisse neque nisl, venenatis vel nunc cursus, pharetra finibus elit. In aliquam nisl eu sapien pulvinar, ac ultrices justo tincidunt. Maecenas sed ipsum libero. Nulla porttitor, magna ac efficitur vestibulum, urna neque porttitor velit, ac imperdiet elit mauris vel neque. Vivamus et scelerisque libero. Aenean imperdiet dignissim viverra. Phasellus aliquet diam et velit auctor mollis. In pulvinar dolor tristique mollis dignissim. Nullam et sem ac odio interdum vehicula sed vel est.
+By applying universal rules of software architecture, you can dramatically improve developer productivity throughout the life of any software system. Now, building upon the success of his best-selling books *Clean Code* and *The Clean Coder,* legendary software craftsman Robert C. Martin (“Uncle Bob”) reveals those rules and helps you apply them.
 
-Fusce vel malesuada neque, ut porttitor nulla. Etiam maximus consectetur bibendum. Aliquam vestibulum elementum elit eu lacinia. Sed at tristique enim. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla hendrerit sed magna et vehicula. Aenean rutrum placerat diam sit amet pharetra. Cras tristique aliquam augue sit amet volutpat. In finibus lobortis rutrum. Phasellus fringilla rutrum tortor, at convallis lacus maximus eu. Nam et hendrerit ligula.
+Martin’s ***Clean Architecture*** doesn’t merely present options. Drawing on over a half-century of experience in software environments of every imaginable type, Martin tells you what choices to make and why they are critical to your success. As you’ve come to expect from Uncle Bob, this book is packed with direct, no-nonsense solutions for the real challenges you’ll face–the ones that will make or break your projects.
 
-# Why ?
-Sed ullamcorper nibh eget massa dapibus hendrerit. Nulla facilisi. Aliquam erat volutpat. Ut eu ornare ipsum. Aenean molestie metus non orci faucibus pulvinar. Pellentesque maximus urna diam, vitae consectetur sapien sagittis id. Etiam enim erat, egestas id congue ut, dapibus ut lorem. Aenean scelerisque ligula id arcu rhoncus, id pharetra libero ultricies. Donec varius porta risus, a posuere libero fringilla a. Etiam id felis eu mauris euismod ullamcorper id ac massa. Aenean commodo pretium ex, et hendrerit ex pulvinar vel. Nam in nibh in eros maximus auctor. Maecenas lacus ipsum, porttitor vitae nisl ut, venenatis viverra ante. Mauris lacinia posuere sem in auctor. Quisque sed ultricies magna. Aliquam eu mauris commodo, ullamcorper turpis vestibulum, hendrerit augue.
+- Learn what software architects need to achieve–and core disciplines and practices for achieving it
+- Master essential software design principles for addressing function, component separation, and data management
+- See how programming paradigms impose discipline by restricting what developers can do
+- Understand what’s critically important and what’s merely a “detail”
+- Implement optimal, high-level structures for web, database, thick-client, console, and embedded applications
+- Define appropriate boundaries and layers, and organize components and services
+- See why designs and architectures go wrong, and how to prevent (or fix) these failures
 
-# For who ?
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-* Nulla mattis metus a turpis fermentum, at fermentum mauris porttitor.
-* Morbi porttitor magna dictum condimentum faucibus.
-* Donec eget diam pharetra, hendrerit velit quis, sodales massa.
-* Sed dictum nunc eu ipsum consequat, ac rutrum lectus consequat.
-* Duis ut arcu mollis, pellentesque lacus eu, malesuada ante.
+***Clean Architecture*** is essential reading for every current or aspiring software architect, systems analyst, system designer, and software manager–and for every programmer who must execute someone else’s designs.
+
+
 
 # Resources
-- [Lorem ipsum]()
-- [turpis fermentum]()
+- [The Clean Architecture by Robert C. Martin (Uncle Bob)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
-# Contacts
-- [Contactum 1]()
-- [Contactum 2]()
-- [Contactum 3]()
