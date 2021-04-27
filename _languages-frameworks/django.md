@@ -16,5 +16,5 @@ Django is a high-level Python web framework that enables the rapid development o
 - [Home page](https://www.djangoproject.com/)
 - [Documentation](https://docs.djangoproject.com/en/3.2/)
 - [Github repository](https://github.com/django/django)
-- [Xgeeks posts about Django](https://medium.com/xgeeks/tagged/django)
+- [Xgeeks posts about it](https://medium.com/xgeeks/tagged/django)
 
