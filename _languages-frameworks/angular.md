@@ -8,24 +8,13 @@ ring: Adopt
 ---
 
 # What is it ?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pharetra ultricies lectus vitae elementum. Suspendisse neque nisl, venenatis vel nunc cursus, pharetra finibus elit. In aliquam nisl eu sapien pulvinar, ac ultrices justo tincidunt. Maecenas sed ipsum libero. Nulla porttitor, magna ac efficitur vestibulum, urna neque porttitor velit, ac imperdiet elit mauris vel neque. Vivamus et scelerisque libero. Aenean imperdiet dignissim viverra. Phasellus aliquet diam et velit auctor mollis. In pulvinar dolor tristique mollis dignissim. Nullam et sem ac odio interdum vehicula sed vel est.
-
-Fusce vel malesuada neque, ut porttitor nulla. Etiam maximus consectetur bibendum. Aliquam vestibulum elementum elit eu lacinia. Sed at tristique enim. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla hendrerit sed magna et vehicula. Aenean rutrum placerat diam sit amet pharetra. Cras tristique aliquam augue sit amet volutpat. In finibus lobortis rutrum. Phasellus fringilla rutrum tortor, at convallis lacus maximus eu. Nam et hendrerit ligula.
+AngularJS is a JavaScript-based open-source front-end web framework mainly maintained by Google and by a community of individuals and corporations to address many of the challenges encountered in developing single-page applications. It aims to simplify both the development and the testing of such applications by providing a framework for client-side model–view–controller (MVC) and model–view–viewmodel (MVVM) architectures, along with components commonly used in web applications and progressive web applications.
 
 # Why ?
-Sed ullamcorper nibh eget massa dapibus hendrerit. Nulla facilisi. Aliquam erat volutpat. Ut eu ornare ipsum. Aenean molestie metus non orci faucibus pulvinar. Pellentesque maximus urna diam, vitae consectetur sapien sagittis id. Etiam enim erat, egestas id congue ut, dapibus ut lorem. Aenean scelerisque ligula id arcu rhoncus, id pharetra libero ultricies. Donec varius porta risus, a posuere libero fringilla a. Etiam id felis eu mauris euismod ullamcorper id ac massa. Aenean commodo pretium ex, et hendrerit ex pulvinar vel. Nam in nibh in eros maximus auctor. Maecenas lacus ipsum, porttitor vitae nisl ut, venenatis viverra ante. Mauris lacinia posuere sem in auctor. Quisque sed ultricies magna. Aliquam eu mauris commodo, ullamcorper turpis vestibulum, hendrerit augue.
-
-# For who ?
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-* Nulla mattis metus a turpis fermentum, at fermentum mauris porttitor.
-* Morbi porttitor magna dictum condimentum faucibus.
-* Donec eget diam pharetra, hendrerit velit quis, sodales massa.
-* Sed dictum nunc eu ipsum consequat, ac rutrum lectus consequat.
-* Duis ut arcu mollis, pellentesque lacus eu, malesuada ante.
+HTML is great for declaring static documents, but it falters when we try to use it for declaring dynamic views in web-applications. AngularJS lets you extend HTML vocabulary for your application. The resulting environment is extraordinarily expressive, readable, and quick to develop.
 
 # Resources
+- [Home page](https://angularjs.org/)
 - [Cheat sheet](https://angular.io/guide/cheatsheet)
 - [Learn angular](https://hackr.io/tutorials/learn-angular)
-
-# Contacts
-- [Yoan Thirion](https://www.linkedin.com/in/yoanthirion/)
+- [Github repository](https://github.com/angular/angular.js/)
