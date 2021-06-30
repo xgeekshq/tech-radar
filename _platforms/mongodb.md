@@ -4,7 +4,7 @@ filename: mongodb
 name: MongoDB
 image: /tech-radar/assets/images/platforms/mongodb.png
 category: Platforms
-ring: Adopt
+ring: Can Use
 ---
 
 # What is it ?

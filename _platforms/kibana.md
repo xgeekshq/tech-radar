@@ -4,7 +4,7 @@ filename: kibana
 name: Kibana
 image: /tech-radar/assets/images/platforms/kibana.png 
 category: Platforms
-ring: Adopt
+ring: Can Use
 ---
 
 # What is it ?

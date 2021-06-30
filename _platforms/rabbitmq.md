@@ -4,7 +4,7 @@ filename: rabbitmq
 name: RabbitMQ
 image: /tech-radar/assets/images/platforms/rabbitmq.png
 category: Platforms
-ring: Adopt
+ring: Can Use
 ---
 
 # What is it ?

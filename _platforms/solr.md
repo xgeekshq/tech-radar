@@ -4,7 +4,7 @@ filename: solr
 name: Solr
 image: /tech-radar/assets/images/platforms/solr.png 
 category: Platforms
-ring: Adopt
+ring: Can Use
 ---
 
 # What is it ?

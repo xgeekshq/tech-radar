@@ -4,7 +4,7 @@ filename: cassandra
 name: Apache Cassandra
 image: /tech-radar/assets/images/platforms/cassandra.png 
 category: Platforms
-ring: Adopt
+ring: Can Use
 ---
 
 # What is it ?

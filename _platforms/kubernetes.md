@@ -4,7 +4,7 @@ filename: kubernetes
 name: Kubernetes
 image: /tech-radar/assets/images/platforms/kubernetes.png 
 category: Platforms
-ring: Adopt
+ring: Can Use
 ---
 
 # What is it ?

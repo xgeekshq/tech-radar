@@ -4,7 +4,7 @@ filename: elasticsearch
 name: Elasticsearch
 image: /tech-radar/assets/images/platforms/elasticsearch.png
 category: Platforms
-ring: Adopt
+ring: Can Use
 ---
 
 # What is it ?

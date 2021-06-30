@@ -4,7 +4,7 @@ filename: redis
 name: Redis
 image: /tech-radar/assets/images/platforms/redis.png 
 category: Platforms
-ring: Adopt
+ring: Can Use
 ---
 
 # What is it ?
