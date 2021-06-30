@@ -4,7 +4,7 @@ filename: symfony
 name: Symfony
 image: /tech-radar/assets/images/languages-frameworks/symfony.png
 category: languages-frameworks
-ring: Adopt
+ring: Can Use
 ---
 
 # What is it ?

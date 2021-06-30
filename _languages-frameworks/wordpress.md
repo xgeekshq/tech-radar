@@ -4,7 +4,7 @@ filename: wordpress
 name: WordPress
 image: /tech-radar/assets/images/languages-frameworks/wordpress.png
 category: languages-frameworks
-ring: Adopt
+ring: Deprecated
 ---
 
 # What is it ?

@@ -4,7 +4,7 @@ filename: angular
 name: Angular
 image: /tech-radar/assets/images/languages-frameworks/angular.png 
 category: languages-frameworks
-ring: Adopt
+ring: Can Use
 ---
 
 # What is it ?

@@ -4,7 +4,7 @@ filename: jquery
 name: JQuery
 image: /tech-radar/assets/images/languages-frameworks/jquery.png
 category: languages-frameworks
-ring: Adopt
+ring: Deprecated
 ---
 
 # What is it ?
