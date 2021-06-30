@@ -4,7 +4,7 @@ filename: vuejs
 name: vuejs
 image: /tech-radar/assets/images/languages-frameworks/vuejs.png
 category: languages-frameworks
-ring: Can Use
+ring: Assess
 ---
 
 # What is it ?
