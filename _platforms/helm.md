@@ -4,7 +4,7 @@ filename: helm
 name: Helm
 image: /tech-radar/assets/images/platforms/helm.png
 category: Platforms
-ring: Assess
+ring: Can Use
 ---
 
 # What is it ?
