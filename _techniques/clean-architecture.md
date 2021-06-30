@@ -4,7 +4,7 @@ filename: clean-architecture
 name: Clean Architecture 
 image: /tech-radar/assets/images/techniques/clean_architecture.png
 category: Techniques
-ring: Adopt
+ring: Can Use
 ---
 
 # What is it ?

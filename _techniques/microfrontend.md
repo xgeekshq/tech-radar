@@ -4,7 +4,7 @@ filename: microfrontend
 name: Microfrontend
 image: /tech-radar/assets/images/techniques/microfrontend.png
 category: Techniques
-ring: Adopt
+ring: Can Use
 ---
 
 # What is it ?

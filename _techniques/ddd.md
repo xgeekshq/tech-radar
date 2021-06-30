@@ -4,7 +4,7 @@ filename: ddd
 name: Domain Driven Design
 image: /tech-radar/assets/images/techniques/ddd.png 
 category: Techniques
-ring: Adopt
+ring: Can Use
 ---
 
 # What is it ?
