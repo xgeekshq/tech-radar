@@ -8,7 +8,7 @@ ring: Adopt
 ---
 
 # What is it ?
-Gitkraken is a GUI Git client that facilitates efficient and reliable usage of Git on a desktop and offer most of the command line operations. Gitkraken helps a Git client's efficiency through these features: Built-in merge tool.
+Free multi-platform database tool for developers, database administrators, analysts and all people who need to work with databases. Supports all popular databases: MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Apache Hive, Phoenix, Presto, etc.
 
 
 
