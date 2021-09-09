@@ -1,0 +1,188 @@
+
+.container{
+    position: relative;
+    height: 800px;
+    z-index: 0;
+}
+
+
+.radarr{
+    position: absolute;
+    z-index: 1;
+    left: 200px;
+
+}
+
+.techs{
+    position: absolute;
+    z-index: 2;
+    width: 300px;
+    height: auto;
+    background-color: rgb(180, 180, 180)  ;
+    top:50px;
+    left: 950px;
+}
+
+.techs input[type="checkbox"]{
+    display: none;
+}
+
+.techs input:checked ~ ul {
+    display: initial;
+}
+
+.techs input:checked ~ label{
+    margin-bottom: 0px;
+}
+
+
+
+.techs{
+    width: 100%;
+    background: none;
+    border: none;
+    color: black;
+}
+
+/* Styling for buttons aka labels*/
+.techs label{
+    width: 290px;
+    height: 35px;
+    text-align: center;
+    border-radius: 5px;
+    line-height: 175%;
+    font-size: 1.1em;
+
+}
+
+.techs .techniques label{
+    background-color: #84b627;
+}
+
+.techs .tools label{
+    background-color: #28a2dc;
+}
+
+.techs .frameworks label{
+    background-color: #f2b500;
+}
+
+.techs .platforms label{
+    background-color: #a94442;
+}
+
+.techs .techniques label:hover{
+    background-color: #6aa300;
+}
+
+.techs .tools label:hover{
+    background-color: #0872a3;
+}
+
+.techs .frameworks label:hover{
+    background-color: #b18502;
+}
+
+.techs .platforms label:hover{
+    background-color: #a11311;
+}
+
+
+
+.techs ul{
+    display: none;
+
+}
+
+.drop-down{
+    width: 281px;
+    margin-left: 5px;
+    border-radius: 0 0 5px 5px ;
+    margin-bottom: 10px;
+}
+
+.itemm{
+    width: 100%;
+    height: 30px;
+    color:black;
+
+    padding: 5px 0px 5px 20px;
+    background: none;
+    border: none;
+}
+
+.itemm:last-child{
+    padding-bottom: 10px;
+    border-radius: 0 0 5px 5px;
+}
+
+.techniques .itemm:hover{
+    background-color:#c8f771;
+}
+
+.tools .itemm:hover{
+    background-color:#67cfff;
+}
+
+.frameworks .itemm:hover{
+    background-color:#ffdb6e;
+}
+
+.platforms .itemm:hover{
+    background-color:#f76664;
+}
+
+/*Colors for drop down*/
+.techniques .drop-down{
+    background-color:#acd461;
+}
+
+.tools .drop-down{
+    background-color:#5ebce7;
+}
+
+.frameworks .drop-down{
+    background-color:#ffd043;
+}
+
+.platforms .drop-down{
+    background-color:#dd5d5a;
+}
+
+
+
+/*Color the buttons OLD
+.techniques .itemm{
+    background-color: rgb(2, 219, 20);
+}
+
+.tools .itemm{
+    background-color: rgb(22, 26, 255);
+}
+
+.frameworks .itemm{
+    background-color: rgb(255, 197, 6);
+}
+
+.platforms .itemm{
+    background-color: rgb(255, 46, 46);
+}
+
+*/
+
+/*To make buttons disappear*/
+.button.first{
+    display: none;
+}
+
+.button.second{
+    display: none;
+}
+
+.button.third{
+    display: none;
+}
+
+.button.fourth{
+    display: none;
+}

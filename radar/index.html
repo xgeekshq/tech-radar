@@ -2,10 +2,97 @@
 title: Radar
 layout: radar
 ---
-<head><link href="main.719059a0f7a50dcd153e.css" rel="stylesheet"></head><body>
+<head>
+  <link href="main.719059a0f7a50dcd153e.css" rel="stylesheet">
+  <link href="newStyle.css" rel="stylesheet">
+</head><body>
 
   <main class="page-single-card">
-    <radar></radar>
+
+    <div class="container">
+      <div class="child radarr">
+        <radar></radar>
+      </div>
+
+      <div class="child techs">
+        <div class="techniques">
+          <input type="checkbox" id="A"></input>
+          <label for="A">Thechniques</label>
+          <ul>
+            <div class="drop-down">
+            {% for item in site.techniques %}
+              <li class="itemm"> {{item.number}} - {{item.name}}</li>
+            {% endfor %}
+            </div>
+          </ul>
+        </div>
+
+        <div class="tools">
+          <input type="checkbox" id="B"></input>
+          <label for="B">Tools</label>
+          <ul>
+            <div class="drop-down">
+            {% for item in site.tools %}
+              <li class="itemm"> {{item.number}} - {{item.name}}</li>
+            {% endfor %}
+            </div>
+          </ul>
+        </div>
+
+        <div class="frameworks">
+          <input type="checkbox" id="C"></input>
+          <label for="C">Frameworks</label>
+          <ul>
+            <div class="drop-down">
+              {% for item in site.languages-frameworks %}
+                <li class="itemm"> {{item.number}} - {{item.name}}</li>
+              {% endfor %}
+            </div>
+          </ul>
+        </div>
+
+        <div class="platforms">
+          <input type="checkbox" id="D"></input>
+          <label for="D">Platforms</label>
+          <ul>
+            <div class="drop-down">
+            {% for item in site.platforms %}
+              <li class="itemm"> {{item.number}} - {{item.name}}</li>
+            {% endfor %}
+          </div>
+          </ul>
+        </div>
+
+        <!--
+        <div class="tools">
+          {% for item in site.tools %}
+            <button class="itemm"> {{item.number}} - {{item.name}}</button>
+          {% endfor %}
+        </div>
+
+        <div class="frameworks">
+          {% for item in site.languages-frameworks %}
+            <button class="itemm"> {{item.number}} - {{item.name}}</button>
+          {% endfor %}
+        </div>
+
+        <div class="platforms">
+          {% for item in site.platforms %}
+            <button class="itemm"> {{item.number}} - {{item.name}}</button>
+          {% endfor %}
+        </div>
+      -->
+
+      </div>
+    </div>
+
+    <!--
+    <div class="miaumiaumiau"  >
+      {% for item in site.techniques %}
+        {{item.name}}  
+      {% endfor %}
+    </div>
+    -->
   </main>
 
     <div class="page-modals" id="pageModals" tabindex="-1" role="dialog" aria-hidden="true">
