@@ -150,3 +150,61 @@
 .platforms .drop-down{
     background-color:#dd5d5a;
 }
+
+
+/* Media queries*/
+
+@media only screen and (max-width: 1300px) {
+    .radarr{
+        left: 200px;
+    }
+    .techs{
+        left: 850px;
+    }
+}
+
+@media only screen and (max-width: 1150px) {
+    .radarr{
+        left: 100px;
+    }
+    .techs{
+        left: 750px;
+    }
+}
+
+@media only screen and (max-width: 1050px) {
+    .radarr{
+        left: 10px;
+    }
+    .techs{
+        left: 650px;
+    }
+}
+
+@media only screen and (max-width: 950px) {
+
+    .techs{
+        display: none;
+    }
+    
+    .radarr{
+        width: 100%;
+    }
+
+    /*To make top buttons disappear*/
+    .button.first{
+        display: initial !important;;
+    }
+
+    .button.second{
+        display: initial !important;;
+    }
+
+    .button.third{
+        display: initial !important;;
+    }
+
+    .button.fourth{
+        display: initial !important;;
+    }
+}
