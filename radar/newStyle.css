@@ -9,7 +9,7 @@
 .radarr{
     position: absolute;
     z-index: 1;
-    left: 200px;
+    left: 300px;
 
 }
 
@@ -20,7 +20,10 @@
     height: auto;
     background-color: rgb(180, 180, 180)  ;
     top:50px;
-    left: 950px;
+    left: 1000px;
+
+    opacity: 1;
+    transition: 0.7s ease;
 }
 
 .techs input[type="checkbox"]{

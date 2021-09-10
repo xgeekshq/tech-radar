@@ -1,0 +1,17 @@
+/*To make buttons disappear*/
+.button.first{
+    display: none;
+}
+
+.button.second{
+    display: none;
+}
+
+.button.third{
+    display: none;
+}
+
+.button.fourth{
+    display: none;
+}
+
