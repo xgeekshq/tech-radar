@@ -22,7 +22,7 @@ layout: radar
           <ul>
             <div class="drop-down">
             {% for item in site.techniques %}
-              <li class="itemm"> {{item.number}} - {{item.name}}</li>
+              <li class="itemm triggerOpenModal" data-modal="modal-{{item.filename}}" > {{item.number}} - {{item.name}}</li>
             {% endfor %}
             </div>
           </ul>
@@ -30,11 +30,11 @@ layout: radar
 
         <div class="tools">
           <input type="checkbox" id="B"></input>
-          <label for="B">Tools</label>
+          <label for="B">Toolsssssssssssssssssssssssssss</label>
           <ul>
             <div class="drop-down">
             {% for item in site.tools %}
-              <li class="itemm"> {{item.number}} - {{item.name}}</li>
+              <li class="itemm triggerOpenModal" data-modal="modal-{{item.filename}}"> {{item.number}} - {{item.name}}</li>
             {% endfor %}
             </div>
           </ul>
@@ -46,7 +46,7 @@ layout: radar
           <ul>
             <div class="drop-down">
               {% for item in site.languages-frameworks %}
-                <li class="itemm"> {{item.number}} - {{item.name}}</li>
+                <li class="itemm triggerOpenModal" data-modal="modal-{{item.filename}}"> {{item.number}} - {{item.name}}</li>
               {% endfor %}
             </div>
           </ul>
@@ -58,42 +58,16 @@ layout: radar
           <ul>
             <div class="drop-down">
             {% for item in site.platforms %}
-              <li class="itemm"> {{item.number}} - {{item.name}}</li>
+              <li class="itemm triggerOpenModal" data-modal="modal-{{item.filename}}"> {{item.number}} - {{item.name}}</li>
             {% endfor %}
           </div>
           </ul>
         </div>
 
-        <!--
-        <div class="tools">
-          {% for item in site.tools %}
-            <button class="itemm"> {{item.number}} - {{item.name}}</button>
-          {% endfor %}
-        </div>
-
-        <div class="frameworks">
-          {% for item in site.languages-frameworks %}
-            <button class="itemm"> {{item.number}} - {{item.name}}</button>
-          {% endfor %}
-        </div>
-
-        <div class="platforms">
-          {% for item in site.platforms %}
-            <button class="itemm"> {{item.number}} - {{item.name}}</button>
-          {% endfor %}
-        </div>
-      -->
 
       </div>
     </div>
 
-    <!--
-    <div class="miaumiaumiau"  >
-      {% for item in site.techniques %}
-        {{item.name}}  
-      {% endfor %}
-    </div>
-    -->
   </main>
 
     <div class="page-modals" id="pageModals" tabindex="-1" role="dialog" aria-hidden="true">
@@ -114,6 +88,10 @@ layout: radar
       {% for item in site.platforms %}
         {% include modal.html name=item.name content=item.content filename=item.filename image=item.image category=item.category ring=item.ring %}
       {% endfor %}
+      {% for item in site.tools %}
+      {% include modal.html name=disahiasd content=item.content filename=item.filename image=item.image category=item.category ring=item.ring %}
+    {% endfor %}
+
     </div>
 
     
