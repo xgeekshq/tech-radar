@@ -30,7 +30,7 @@ layout: radar
 
         <div class="tools">
           <input type="checkbox" id="B"></input>
-          <label for="B">Toolsssssssssssssssssssssssssss</label>
+          <label for="B">Tools</label>
           <ul>
             <div class="drop-down">
             {% for item in site.tools %}
@@ -88,9 +88,6 @@ layout: radar
       {% for item in site.platforms %}
         {% include modal.html name=item.name content=item.content filename=item.filename image=item.image category=item.category ring=item.ring %}
       {% endfor %}
-      {% for item in site.tools %}
-      {% include modal.html name=disahiasd content=item.content filename=item.filename image=item.image category=item.category ring=item.ring %}
-    {% endfor %}
 
     </div>
 

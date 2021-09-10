@@ -5,7 +5,6 @@
     z-index: 0;
 }
 
-
 .radarr{
     position: absolute;
     z-index: 1;
@@ -38,8 +37,6 @@
     margin-bottom: 0px;
 }
 
-
-
 .techs{
     width: 100%;
     background: none;
@@ -55,7 +52,8 @@
     border-radius: 5px;
     line-height: 175%;
     font-size: 1.1em;
-
+    cursor: pointer;
+    user-select: none;
 }
 
 .techs .techniques label{
@@ -91,7 +89,6 @@
 }
 
 
-
 .techs ul{
     display: none;
 
@@ -112,6 +109,8 @@
     padding: 5px 0px 5px 20px;
     background: none;
     border: none;
+    user-select: none;
+    cursor: pointer;
 }
 
 .itemm:last-child{
@@ -150,42 +149,4 @@
 
 .platforms .drop-down{
     background-color:#dd5d5a;
-}
-
-
-
-/*Color the buttons OLD
-.techniques .itemm{
-    background-color: rgb(2, 219, 20);
-}
-
-.tools .itemm{
-    background-color: rgb(22, 26, 255);
-}
-
-.frameworks .itemm{
-    background-color: rgb(255, 197, 6);
-}
-
-.platforms .itemm{
-    background-color: rgb(255, 46, 46);
-}
-
-*/
-
-/*To make buttons disappear*/
-.button.first{
-    display: none;
-}
-
-.button.second{
-    display: none;
-}
-
-.button.third{
-    display: none;
-}
-
-.button.fourth{
-    display: none;
 }
