@@ -1,14 +1,17 @@
 
+
 .container{
     position: relative;
-    height: 800px;
+    height: 100%;
     z-index: 0;
+    
 }
 
 .radarr{
     position: absolute;
     z-index: 1;
     left: 300px;
+    
 
 }
 
@@ -23,6 +26,7 @@
 
     opacity: 1;
     transition: 0.7s ease;
+    overflow-y: hidden;
 }
 
 .techs input[type="checkbox"]{
