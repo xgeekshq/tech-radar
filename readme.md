@@ -1,11 +1,11 @@
 # Tech radar
 
-You can access a preview of the radar [here](https://agilepartner.github.io/tech-radar/).
+You can access a preview of the radar [here](https://xgeekshq.github.io/tech-radar/).
 
 ## What ?
 
-The Radar is a document that sets out the changes that are currently interesting regarding software development.  
-It is published by a company called Thoughtworks.  
+The Radar is a document that sets out the changes that are currently interesting regarding software development.
+It is published by a company called Thoughtworks.
 You can find more information about it [here](https://www.thoughtworks.com/radar/faq).
 
 ## Why ?
