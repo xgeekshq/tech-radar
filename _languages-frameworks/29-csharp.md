@@ -4,7 +4,7 @@ filename: csharp
 name: C#
 image: /tech-radar/assets/images/languages-frameworks/csharp.png
 category: languages-frameworks
-ring: Adopt
+ring: Can Use
 number: 29
 ---
 

@@ -4,7 +4,7 @@ filename: blockchain
 name: Blockchain
 image: /tech-radar/assets/images/techniques/blockchain.png
 category: Techniques
-ring: Adopt
+ring: Assess
 number: 7
 ---
 
