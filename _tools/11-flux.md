@@ -5,7 +5,7 @@ name: Flux
 image: /tech-radar/assets/images/tools/flux.png
 category: Tools
 ring: Assess
-number: 10
+number: 11
 ---
 
 # What is it ?
