@@ -31,7 +31,7 @@
     <div class="grid-flex grid-cards">
       {% for platform in adopt %}
       <div class="column w-16">
-        <a href="{{platform.filename}}.html">{{ platform.name }}</a>
+        <a href="{{platform.number}}-{{platform.filename}}.html">{{ platform.name }}</a>
       </div>
       {% endfor %}
     </div>
@@ -45,7 +45,7 @@
     <div class="grid-flex grid-cards">
       {% for platform in can-use %}
       <div class="column w-16">
-        <a href="{{platform.filename}}.html">{{ platform.name }}</a>
+        <a href="{{platform.number}}-{{platform.filename}}.html">{{ platform.name }}</a>
       </div>
       {% endfor %}
     </div>
@@ -59,7 +59,7 @@
     <div class="grid-flex grid-cards">
       {% for platform in assess %}
       <div class="column w-16">
-        <a href="{{platform.filename}}.html">{{ platform.name }}</a>
+        <a href="{{platform.number}}-{{platform.filename}}.html">{{ platform.name }}</a>
       </div>
       {% endfor %}
     </div>
@@ -73,7 +73,7 @@
       <div class="grid-flex grid-cards">
         {% for platform in deprecated %}
         <div class="column w-16">
-          <a href="{{platform.filename}}.html">{{ platform.name }}</a>
+          <a href="{{platform.number}}-{{platform.filename}}.html">{{ platform.name }}</a>
         </div>
         {% endfor %}
       </div>
