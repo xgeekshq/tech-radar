@@ -14,3 +14,4 @@ GraphQL is a query language for APIs and a runtime for fulfilling those queries 
 # Resources
 - [Home Page/Documentation](https://graphql.org/)
 - [Source Code](https://github.com/graphql/graphql-js/)
+- [Spec repository](https://github.com/graphql/graphql-spec)
