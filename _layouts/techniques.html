@@ -31,7 +31,7 @@
     <div class="grid-flex grid-cards">
       {% for technique in adopt %}
       <div class="column w-16">
-        <a href="{{technique.filename}}.html">{{ technique.name }}</a>
+        <a href="{{technique.number}}-{{technique.filename}}.html">{{ technique.name }}</a>
       </div>
       {% endfor %}
     </div>
@@ -45,7 +45,7 @@
     <div class="grid-flex grid-cards">
       {% for technique in can-use %}
       <div class="column w-16">
-        <a href="{{technique.filename}}.html">{{ technique.name }}</a>
+        <a href="{{technique.number}}-{{technique.filename}}.html">{{ technique.name }}</a>
       </div>
       {% endfor %}
     </div>
@@ -59,7 +59,7 @@
     <div class="grid-flex grid-cards">
       {% for technique in assess %}
       <div class="column w-16">
-        <a href="{{technique.filename}}.html">{{ technique.name }}</a>
+        <a href="{{technique.number}}-{{technique.filename}}.html">{{ technique.name }}</a>
       </div>
       {% endfor %}
     </div>
@@ -73,7 +73,7 @@
       <div class="grid-flex grid-cards">
         {% for technique in deprecated %}
         <div class="column w-16">
-          <a href="{{technique.filename}}.html">{{ technique.name }}</a>
+          <a href="{{technique.number}}-{{technique.filename}}.html">{{ technique.name }}</a>
         </div>
         {% endfor %}
       </div>
