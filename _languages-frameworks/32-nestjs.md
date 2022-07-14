@@ -13,4 +13,5 @@ NestJS is a progressive Node.js framework that helps build server-side applicati
 
 # Resources
 - [Home Page/Documentation](https://nestjs.com/)
-- [Source Code](https://github.com/nestjs/nest)
+- [Source Code](https://github.com/nestjs/nest/)
+- [Official NestJS Course](https://courses.nestjs.com/)

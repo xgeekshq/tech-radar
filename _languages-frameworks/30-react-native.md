@@ -13,4 +13,6 @@ React Native is an open-source UI software framework created by Facebook/Meta Pl
 
 # Resources
 - [Home Page/Documentation](https://reactnative.dev/)
-- [Source Code](https://github.com/facebook/react-native)
+- [Source Code](https://github.com/facebook/react-native/)
+- [Course: React Native (feat. Redux)](https://frontendmasters.com/courses/react-native/)
+- [Course: React Native, v2](https://frontendmasters.com/courses/react-native-v2/)
